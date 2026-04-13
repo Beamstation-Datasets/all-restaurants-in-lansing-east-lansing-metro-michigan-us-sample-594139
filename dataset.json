@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Regional restaurant data for the Lansing-East Lansing (Metro), Michigan metropolitan area, spanning Lansing and East Lansing. Captures the competitive landscape across city boundaries within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Lansing-East Lansing (Metro), Michigan, US",
+  "export_job_id": "bcb2b608-356d-492b-ae57-e1daea1cbd89",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 594139,
+  "location_name": "Lansing-East Lansing, MI",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-lansing-east-lansing-metro-michigan-us-sample-594139",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/594139/beamstation_594139_restaurants-us-lansingeastlansingmi_SAMPLE_DIST.csv",
+  "sample_pct": 3.98,
+  "sample_records": 25,
+  "sample_sha256": "7b07dbe292f0c2fa8fa9f52262e15684e97127d74debe7966b4d0142b0d8eb08",
+  "sample_size_bytes": 114985,
+  "total_records": 628,
+  "updated_at": "2026-03-31T16:17:47.342704+00:00"
+}
