@@ -1,0 +1,12 @@
+{
+  "export_job_id": "bcb2b608-356d-492b-ae57-e1daea1cbd89",
+  "id_short": 594139,
+  "published_at": "2026-04-13T19:46:14Z",
+  "repo_name": "all-restaurants-in-lansing-east-lansing-metro-michigan-us-sample-594139",
+  "sample_asset_name": "beamstation_594139_restaurants-us-lansingeastlansingmi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/594139/beamstation_594139_restaurants-us-lansingeastlansingmi_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "7b07dbe292f0c2fa8fa9f52262e15684e97127d74debe7966b4d0142b0d8eb08",
+  "sample_size_bytes": 114985,
+  "total_records": 628
+}
