@@ -1,6 +1,6 @@
 # All Restaurants in Lansing-East Lansing (Metro), Michigan, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 79 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `594139` |
 | Location | Lansing-East Lansing, MI |
 | Category | Restaurants |
-| Full dataset size | 628 records |
-| Free sample size | 25 records (3.98%) |
-| Last export | 2026-03-31T16:17:47.342704+00:00 |
+| Full dataset size | 794 records |
+| Free sample size | 79 records (9.95%) |
+| Last export | 2026-04-14T17:09:22.676779+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lansing-east-lansing-metro-michigan-us-sample-594139/releases/download/sample-latest/beamstation_594139_restaurants-us-lansingeastlansingmi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
